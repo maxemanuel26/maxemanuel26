@@ -19,7 +19,7 @@ I’m **Max Emanuel**, a Year 12 student with a **strong academic background in 
 
 **Current Focus**
 - Deepening my JavaScript knowledge
-- Continuously improving my programming skills across all languages
+- Continuously improving my programming skils across all languages
 - Writing cleaner, more maintainable code
 - Applying academic problem-solving skills to real-world software projects
 
